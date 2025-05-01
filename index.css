@@ -1,0 +1,31 @@
+p {
+    color: rgb(92, 1, 80);
+    
+  }
+
+  #titulo-principal {
+    font-size: 32px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  } 
+  #links {
+    color: rgb(47, 0, 255);
+  } 
+  #rodape {
+    color: rgb(0, 0, 0);
+  } 
+  #sub {
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  } 
+  * {
+    margin: 1;
+    padding: 0;
+  }
+  
+  
+  a:hover {
+    color: rgb(35, 3, 177);
+  }
+  
+  
+  
