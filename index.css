@@ -26,6 +26,29 @@ p {
   a:hover {
     color: rgb(35, 3, 177);
   }
+
+  input[type="text"] {
+    border: 1px solid black;
+    border-radius: 7px; 
+  }
+
+  input[type="email"] {
+    border: 1px solid black;
+    border-radius: 7px; 
+  }
+
+  form {
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 0, 0);
+    padding: 10px 15px;
+    border:0cap 
+
+  }
+
+  #mensagem {
+    border: 1px solid black;
+    border-radius: 7px; 
+  }
   
   
   
